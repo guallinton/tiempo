@@ -1,0 +1,101 @@
+id,estacion_id,tipo_alerta,descripcion,fecha_hora
+1,8,Viento fuerte,Descripción de alerta leve,2024-04-05
+2,18,Tormenta,Descripción de alerta severa,2023-12-31
+3,11,Granizo,Descripción de alerta severa,2024-11-05
+4,6,Inundación,Descripción de alerta severa,2024-02-15
+5,19,Tormenta,Descripción de alerta severa,2024-07-22
+6,16,Granizo,Descripción de alerta severa,2024-03-06
+7,5,Inundación,Descripción de alerta moderada,2024-07-15
+8,18,Inundación,Descripción de alerta moderada,2024-07-19
+9,18,Tormenta,Descripción de alerta severa,2024-05-23
+10,16,Viento fuerte,Descripción de alerta leve,2024-08-10
+11,8,Inundación,Descripción de alerta severa,2024-08-27
+12,16,Inundación,Descripción de alerta moderada,2024-11-19
+13,18,Viento fuerte,Descripción de alerta leve,2024-07-25
+14,17,Inundación,Descripción de alerta leve,2024-08-07
+15,6,Viento fuerte,Descripción de alerta leve,2024-10-31
+16,7,Granizo,Descripción de alerta moderada,2024-02-14
+17,17,Viento fuerte,Descripción de alerta leve,2024-05-18
+18,2,Viento fuerte,Descripción de alerta moderada,2024-02-15
+19,2,Tormenta,Descripción de alerta leve,2024-11-07
+20,2,Inundación,Descripción de alerta moderada,2024-07-08
+21,7,Inundación,Descripción de alerta leve,2024-04-03
+22,17,Granizo,Descripción de alerta moderada,2024-07-01
+23,16,Granizo,Descripción de alerta leve,2024-07-23
+24,8,Inundación,Descripción de alerta moderada,2024-12-04
+25,3,Granizo,Descripción de alerta severa,2024-09-16
+26,2,Tormenta,Descripción de alerta severa,2024-10-13
+27,1,Granizo,Descripción de alerta moderada,2024-10-15
+28,9,Granizo,Descripción de alerta moderada,2024-04-12
+29,18,Viento fuerte,Descripción de alerta moderada,2024-01-14
+30,2,Inundación,Descripción de alerta severa,2024-01-11
+31,13,Inundación,Descripción de alerta leve,2024-01-18
+32,8,Viento fuerte,Descripción de alerta severa,2024-10-01
+33,19,Inundación,Descripción de alerta leve,2024-09-07
+34,19,Granizo,Descripción de alerta leve,2024-03-04
+35,13,Granizo,Descripción de alerta moderada,2024-07-14
+36,13,Granizo,Descripción de alerta leve,2024-11-25
+37,12,Inundación,Descripción de alerta severa,2024-10-22
+38,17,Granizo,Descripción de alerta severa,2024-01-20
+39,2,Granizo,Descripción de alerta moderada,2024-10-21
+40,11,Inundación,Descripción de alerta leve,2023-12-26
+41,4,Inundación,Descripción de alerta moderada,2024-10-10
+42,7,Inundación,Descripción de alerta moderada,2024-10-03
+43,8,Inundación,Descripción de alerta leve,2024-04-16
+44,4,Viento fuerte,Descripción de alerta severa,2024-04-17
+45,15,Granizo,Descripción de alerta severa,2024-08-31
+46,10,Tormenta,Descripción de alerta moderada,2024-09-08
+47,3,Inundación,Descripción de alerta moderada,2024-05-27
+48,10,Tormenta,Descripción de alerta leve,2024-10-18
+49,9,Viento fuerte,Descripción de alerta leve,2024-09-19
+50,18,Tormenta,Descripción de alerta leve,2024-10-31
+51,8,Granizo,Descripción de alerta leve,2024-09-22
+52,10,Viento fuerte,Descripción de alerta severa,2024-07-19
+53,3,Granizo,Descripción de alerta leve,2024-12-10
+54,18,Viento fuerte,Descripción de alerta leve,2024-10-07
+55,19,Tormenta,Descripción de alerta moderada,2024-04-23
+56,5,Viento fuerte,Descripción de alerta moderada,2024-12-16
+57,19,Tormenta,Descripción de alerta leve,2024-11-16
+58,17,Viento fuerte,Descripción de alerta severa,2024-02-24
+59,9,Granizo,Descripción de alerta moderada,2024-10-01
+60,12,Viento fuerte,Descripción de alerta moderada,2024-06-22
+61,9,Inundación,Descripción de alerta severa,2024-07-20
+62,6,Viento fuerte,Descripción de alerta severa,2024-08-21
+63,7,Tormenta,Descripción de alerta moderada,2024-11-04
+64,8,Granizo,Descripción de alerta severa,2024-09-20
+65,6,Tormenta,Descripción de alerta leve,2024-03-03
+66,3,Inundación,Descripción de alerta leve,2024-03-22
+67,12,Tormenta,Descripción de alerta leve,2024-06-24
+68,8,Tormenta,Descripción de alerta moderada,2024-05-27
+69,19,Inundación,Descripción de alerta moderada,2024-01-30
+70,2,Tormenta,Descripción de alerta moderada,2024-09-26
+71,7,Viento fuerte,Descripción de alerta severa,2024-04-07
+72,8,Inundación,Descripción de alerta moderada,2024-10-13
+73,11,Granizo,Descripción de alerta moderada,2024-10-01
+74,14,Inundación,Descripción de alerta moderada,2024-10-19
+75,1,Viento fuerte,Descripción de alerta leve,2024-05-12
+76,18,Viento fuerte,Descripción de alerta moderada,2024-01-21
+77,16,Viento fuerte,Descripción de alerta severa,2024-01-28
+78,4,Inundación,Descripción de alerta moderada,2024-09-25
+79,5,Granizo,Descripción de alerta moderada,2024-09-03
+80,7,Inundación,Descripción de alerta severa,2024-06-07
+81,8,Inundación,Descripción de alerta leve,2024-01-04
+82,9,Inundación,Descripción de alerta leve,2024-03-13
+83,4,Tormenta,Descripción de alerta leve,2024-01-11
+84,11,Tormenta,Descripción de alerta leve,2023-12-23
+85,8,Granizo,Descripción de alerta severa,2024-07-11
+86,10,Tormenta,Descripción de alerta severa,2024-04-30
+87,11,Granizo,Descripción de alerta leve,2024-08-19
+88,16,Viento fuerte,Descripción de alerta moderada,2024-10-31
+89,7,Inundación,Descripción de alerta moderada,2024-08-13
+90,7,Granizo,Descripción de alerta leve,2024-11-01
+91,5,Viento fuerte,Descripción de alerta severa,2024-08-04
+92,9,Granizo,Descripción de alerta severa,2024-04-02
+93,10,Granizo,Descripción de alerta moderada,2023-12-29
+94,1,Viento fuerte,Descripción de alerta moderada,2024-02-23
+95,7,Inundación,Descripción de alerta moderada,2024-05-22
+96,3,Viento fuerte,Descripción de alerta moderada,2024-07-21
+97,1,Tormenta,Descripción de alerta severa,2024-10-16
+98,9,Tormenta,Descripción de alerta severa,2024-08-22
+99,15,Inundación,Descripción de alerta leve,2024-05-14
+100,8,Granizo,Descripción de alerta moderada,2024-04-13
